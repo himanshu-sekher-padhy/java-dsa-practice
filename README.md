@@ -5,3 +5,4 @@ Thank you!
 
 till now i have covered basic qns regarding basic math type qns, array, ArrayList, String.
 Soon gonna practice qns that require use of Oops concepts
+then will do problemss on searching and sorting.
