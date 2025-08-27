@@ -16,3 +16,7 @@ plan:
 4. Stack
 5. Queue
 6. LinkedList
+7. Tree
+8. Graph
+9. Dfs and Bfs
+10. Dp
