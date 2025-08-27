@@ -10,3 +10,6 @@ then will do problemss on searching and sorting.
 then rest of the DSs.
 
 plan:
+1. Basic pillars of oop
+2. Seraching
+3. Sorting
