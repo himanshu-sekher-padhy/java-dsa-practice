@@ -13,3 +13,6 @@ plan:
 1. Basic pillars of oop
 2. Seraching
 3. Sorting
+4. Stack
+5. Queue
+6. LinkedList
