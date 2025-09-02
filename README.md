@@ -22,3 +22,4 @@ plan:
 10. Dp
 
 If you want me to do any specific problem, feel free to contact me. All the details are in bio.
+Today i done setter getter
